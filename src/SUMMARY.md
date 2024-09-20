@@ -1,13 +1,15 @@
 # Summary
 
-- [مقدمه](./introduction.md)
-
-# فصل اول
-
-- [فصل اول](./01.chapter1.md)
-  - [شروع به کار](./02.geeting%20started.md)
-  - [درباره کنترل نسخه](./03.about%20version%20control.md)
-  - [درباره کنترل نسخه محلی](./04.local%20version%20control%20systems.md)
-  - [سیستم‌های کنترل نسخه متمرکز](./05.Centralized%20Version%20Control%20Systems.md)
-  - [سیستم‌های کنترل نسخه توزیع شده](./06.distributed%20version%20control%20systems.md)
-  - [تاریخچه کوتاهی از گیت](./07.a%20short%20history%20of%20git.md)
+- [مقدمه](./00_introduction.md)
+- [شروع به کار](./01_getting%20started.md)
+    - [درباره نسخه کنترل](./01.1_about%20version%20control.md)
+        - [سیستم‌های کنترل نسخه محلی](./01.1.1_local%20version%20control%20systems.md)
+        - [سیستم‌های کنترل نسخه متمرکز](./01.1.2_centralized%20version%20control%20systems.md)
+        - [سیستم‌های کنترل نسخه توزیع شده](./01.1.3_distributed%20version%20control%20systems.md)
+    - [تاریخچه کوتاهی از گیت](./01.2_a%20short%20history%20of%20git.md)
+    - [گیت چیست؟](./01.3_what%20is%20git.md)
+        - [snapshot,هیچ فرقی ندارد](./01.3.1_snapshot,%20not%20diffrence.md)
+        - [تقریبا هر عملیت به صورت محلی انجام می‌شود](./01.3.2_nearly%20every%20operation%20local.md)
+        - [گیت دارای یکپارچگی است](./01.3.3_git%20has%20integrity.md)
+        - [گیت به طور کلی فقط داده‌ها را اضافه می‌کند](./01.3.4_git%20generally%20only%20adds%20data.md)
+        - [سه حالت](./01.3.5_the%20three%20states.md)

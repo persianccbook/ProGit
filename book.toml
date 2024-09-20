@@ -1,11 +1,11 @@
 [book]
-authors = ["نام شما"]
+authors = ["SADRA"]
 language = "Fa"
 multilingual = false
 src = "src"
-title = "نام کتاب"
+title = "ProGit"
 text-direction = "rtl"
-description = "موضوع کتاب یا شرحی بر کتاب"
+description = "کار با گیت و نکات مهم برای استفاده از آن"
 
 [preprocessor]
 
