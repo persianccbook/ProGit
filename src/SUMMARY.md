@@ -9,7 +9,7 @@
     - [تاریخچه کوتاهی از گیت](./chapter_1/01.2_a_short_history_of_git.md)
     - [گیت چیست؟](./chapter_1/01.3_what_is_git.md)
         - [snapshot,هیچ فرقی ندارد](./chapter_1/01.3.1_snapshot,_not_diffrence.md)
-        - [تقریبا هر عملیت به صورت محلی انجام می‌شود](./chapter_1/01.3.2_nearly_every_operation_local.md)
+        - [تقریبا هر عملیات به صورت محلی انجام می‌شود](./chapter_1/01.3.2_nearly_every_operation_local.md)
         - [گیت دارای یکپارچگی است](./chapter_1/01.3.3_git_has_integrity.md)
         - [گیت به طور کلی فقط داده‌ها را اضافه می‌کند](./chapter_1/01.3.4_git_generally_only_adds_data.md)
         - [سه حالت](./chapter_1/01.3.5_the_three_states.md)
