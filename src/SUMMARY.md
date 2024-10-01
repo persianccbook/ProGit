@@ -1,6 +1,8 @@
 # Summary
 
 - [مقدمه](./intro/00_introduction.md)
+# فصل اول
+
 - [شروع به کار](./chapter1/01_getting%20started.md)
     - [درباره نسخه کنترل](./chapter1/01.1_about%20version%20control.md)
         - [سیستم‌های کنترل نسخه محلی](./chapter1/01.1.1_local%20version%20control%20systems.md)
@@ -26,4 +28,20 @@
         - [بررسی تنظیمات شما](./01.6.4_checking%20your%20settings.md)
     - [دریافت کمک](./chapter1/01.7_getting%20help.md)
     - [خلاصه](./chapter1/01.8_summary.md)
-    -
+# فصل دوم
+
+- [مبانی گیت](./chapter%202/02_git%20basics.md)
+    - [دریافت مخزن گیت](./chapter%202/02.1_getting%20git%20repository.md)
+        - [نصب یک مخزن در یک دایرکتوری موجود](./chapter%202/02.1.1_installing%20a%20repository%20in%20an%20existing%20directory.md)
+        - [کلون کردن یک مخزن جدید](./chapter%202/02.1.2_cloning%20an%20existing%20repository.md)
+    - [ثبت تغییرات در مخزن](./chapter%202/02.2_recording%20changes%20to%20the%20repository.md)
+        - [بررسی وضعیت فایل‌های خود](./chapter%202/02.2.1_checking%20status%20of%20your%20files.md)
+        - [پیگیری فایل‌های جدید](./chapter%202/02.2.2_tracking%20new%20files.md)
+        - [امادگی فایل‌های ویرایش‌شده](./chapter%202/02.2.3_staging%20modified%20files.md)
+        - [وضعیت کوتاه](./chapter%202/02.2.4_short%20status.md)
+        - [نادیده‌گرفتن فایل‌ها](./chapter%202/02.2.5_ignoring%20files.md)
+        - [مشاهده تغییرات آماده‌شده‌و‌نشده](./chapter%202/02.2.6_viewing%20your%20staged%20unstaged%20changes.md)
+        - [کامیت کردن تغییرات خود](./chapter%202/02.2.7_committing%20your%20changes.md)
+        - [عبور از مرحله آماده‌سازی](./chapter%202/02.2.8_skipping%20the%20staging%20area.md)
+        - [حذف فایل‌ها](./chapter%202/02.2.9_removing%20files.md)
+        - [جابه‌جایی فایل‌ها](./chapter%202/02.2.10_moving%20files.md)
