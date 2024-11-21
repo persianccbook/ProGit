@@ -61,7 +61,7 @@
     - [برچسب‌گذاری](./chapter%202/02.6_tagging.md)
         - [لیست کردن برچسب‌ها با استفاده از گزینه -l یا --list](./chapter%202/02.6.1_listing%20tag%20wildcard%20requiers%20-l%20or%20--list%20option.md)
         - [ایجاد برچسب‌ها](./chapter%202/02.6.2_creating%20tags.md)
-        - [برچسب‌های توضیح دار](./chapter%202/02.6.3_annotated%20tags.md)
+        - [برچسب‌های حاشیه نویسی شده](./chapter%202/02.6.3_annotated%20tags.md)
         - [برچسب‌های سبک](./chapter%202/02.6.4_lightweight%20tags.md)
         - [بعداً برچسب زدن](./chapter%202/02.6.5_tagging%20later.md)
         - [به اشتراک گذاری برچسب‌ها](./chapter%202/02.6.6_sharings%20tags.md)
